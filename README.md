@@ -1,4 +1,4 @@
-[![MasterHead](Baner.psd)](Baner.psd)
+[![MasterHead](Baner.png)](Baner.png)
 <h1 align="center">Hola 👋, Yo soy Christian Chico</h1>
 <h3 align="center">Un programador full-stack junior | Desarrollador Web</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
