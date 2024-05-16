@@ -19,7 +19,7 @@
 
 ## Contacto:
 <a href="mailto:christian.chico@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-christian.chico@hotmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/christian-chico-lópez-708601309"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian_Chico_López-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+<a href="https://linkedin.com/in/christian-chico-lópez-708601309"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian_Chico_López-0077B5?style=flat-square&logo=linkedin&logoColor=white">
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
