@@ -1,7 +1,7 @@
 [![MasterHead](Banner.png)](Banner.png)
 <h1 align="center">Hola 👋, Soy Christian Chico</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=2f07d1&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+en+Software;Programador+Junior;Programador+full+stack;Desarrollador+Web"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=515776&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+en+Software;Programador+Junior;Programador+full+stack;Desarrollador+Web"></a>
 </p>
 
 ## **Sobre mi** <picture><img src = "https://cdn.hashnode.com/res/hashnode/image/upload/v1709470801641/e9136368-41c7-433c-aa6f-89ca17b175bf.gif?w=256&h=256&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" width = 50px></picture>
