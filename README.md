@@ -18,7 +18,7 @@
 - ⚡ About me **I like music and video games.**
 
 ## Social:
-<a href="mailto:christianchico.dev@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-christian.chico@hotmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
+<a href="mailto:christianchico.dev@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-christianchico.dev@outlook.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://linkedin.com/in/christian-chico-lópez-708601309"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian_Chico_López-0077B5?style=flat-square&logo=linkedin&logoColor=white">
 
 
