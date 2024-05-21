@@ -1,4 +1,4 @@
-[![MasterHead](Banner.png)](Banner.png)
+[![MasterHead](Image.png)](Image.png)
 <h1 align="center">Hi 👋, I am Christian Chico</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=515776&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+an+Software+Engineer;Junior+Developer;Full+Stack+Developer;Web+Developer"></a>
