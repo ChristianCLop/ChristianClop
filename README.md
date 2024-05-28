@@ -39,6 +39,24 @@
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=figma,postman)](https://skillicons.dev)
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">E-Commerce Mobile Application</h3>
+  <div align="center">
+    <a href="https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend" target="_blank"><img src="https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend/blob/main/assets/images/logo.png" width="400" alt="E-Commerce movil page"></a>
+    <p>
+      <a href="https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>This project involves creating an <strong> E-Commerce aplication </strong>. It includes functionalities and design elements to recreate a full functional E-Commerce application.</p>
+  </div>                
+</td> 
+</table>  
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
