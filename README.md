@@ -49,7 +49,10 @@
     <a href="https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend" target="_blank"><img src="https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend/blob/main/assets/images/logo.png" width="400" alt="E-Commerce movil page"></a>
     <p>
       <a href="https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <a href="https://github.com/ChristianCLop/DealDash-Ecommerce-Backend" target="_blank">
+        <img src="https://img.shields.io/badge/BACKEND-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>This project involves creating an <strong> E-Commerce aplication </strong>. It includes functionalities and design elements to recreate a full functional E-Commerce application.</p>
