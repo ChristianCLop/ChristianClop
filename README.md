@@ -49,13 +49,26 @@
     <a href="https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend" target="_blank"><img src="https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend/blob/main/assets/images/logo.png" width="400" alt="E-Commerce movil page"></a>
     <p>
       <a href="https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend" target="_blank">
-        <img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/FRONTEND-047495?style=for-the-badge&logo=github&logoColor=black">
       </a>
       <a href="https://github.com/ChristianCLop/DealDash-Ecommerce-Backend" target="_blank">
-        <img src="https://img.shields.io/badge/BACKEND-ff9?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/BACKEND-047495?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>This project involves creating an <strong> E-Commerce aplication </strong>. It includes functionalities and design elements to recreate a full functional E-Commerce application.</p>
+  </div>                
+</td> 
+
+<td width="50%">
+  <h3 align="center">Student Management Application</h3>
+  <div align="center">
+    <a href="https://github.com/Eduardlink/RegistroEstudiantes2023.git" target="_blank"><img src=https://github.com/Eduardlink/RegistroEstudiantes2023/blob/main/src/imagenesFrames/Loguin_Admin.png" width="400" alt="Student Management"></a>
+    <p>
+      <a href="https://github.com/Eduardlink/RegistroEstudiantes2023.git" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>This project consist of creating an <strong> Student Managment </strong> that makes the basic CRUD of students of an institucion, also it has fingerprint login </p>
   </div>                
 </td> 
 </table>  
