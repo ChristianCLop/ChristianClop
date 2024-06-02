@@ -62,7 +62,7 @@
 <td width="50%">
   <h3 align="center">Student Management Application</h3>
   <div align="center">
-    <a href="https://github.com/Eduardlink/RegistroEstudiantes2023.git" target="_blank"><img src=https://github.com/Eduardlink/RegistroEstudiantes2023/blob/main/src/imagenesFrames/Loguin_Admin.png" width="400" alt="Student Management"></a>
+    <a href="https://github.com/Eduardlink/RegistroEstudiantes2023.git" target="_blank"><img src="https://github.com/Eduardlink/RegistroEstudiantes2023/blob/main/src/imagenesFrames/Loguin_Admin.png" width="400" alt="Student Management"></a>
     <p>
       <a href="https://github.com/Eduardlink/RegistroEstudiantes2023.git" target="_blank">
         <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
