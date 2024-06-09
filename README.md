@@ -31,7 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
    
 ### Backend:
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,nestjs,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,nestjs)](https://skillicons.dev)
 
 ### Frontend:
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs)](https://skillicons.dev)
