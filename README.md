@@ -55,7 +55,37 @@
         <img src="https://img.shields.io/badge/BACKEND-047495?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-    <p>This project involves creating an <strong> E-Commerce aplication </strong>. It includes functionalities and design elements to recreate a full functional E-Commerce application.</p>
+    <p>This project involves creating an <strong> E-Commerce aplication </strong>. It includes functionalities and design elements to recreate a full functional application.</p>
+  </div>                
+</td> 
+
+<td width="50%">
+  <h3 align="center">Student Management Application</h3>
+  <div align="center">
+    <a href="https://github.com/Eduardlink/RegistroEstudiantes2023.git" target="_blank"><img src="https://github.com/Eduardlink/RegistroEstudiantes2023/blob/main/src/imagenesFrames/Loguin_Admin.png" width="400" alt="Student Management"></a>
+    <p>
+      <a href="https://github.com/Eduardlink/RegistroEstudiantes2023.git" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>This project consist of creating an <strong> Student Managment </strong> that makes the basic CRUD of students of an institucion, also it has fingerprint login.</p>
+  </div>                
+</td>
+
+<tr>
+<td width="50%">
+  <h3 align="center">Credit Simulator Web Application</h3>
+  <div align="center">
+    <a href="https://github.com/ChristianCLop/frontend-simulador" target="_blank"><img src="https://github.com/ChristianCLop/frontend-simulador/blob/main/public/img/logoApp.png" width="400" alt="Credit Simulator Web Application"></a>
+    <p>
+      <a href="https://github.com/ChristianCLop/frontend-simulador" target="_blank">
+        <img src="https://img.shields.io/badge/FRONTEND-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <a href="https://github.com/ChristianCLop/backend-simulador" target="_blank">
+        <img src="https://img.shields.io/badge/BACKEND-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>This project involves creating an <strong> Credit Simulator aplication </strong>. It includes all basics elements to recreate a full functional application</p>
   </div>                
 </td> 
 
@@ -70,7 +100,7 @@
     </p>
     <p>This project consist of creating an <strong> Student Managment </strong> that makes the basic CRUD of students of an institucion, also it has fingerprint login </p>
   </div>                
-</td> 
+</td>
 </table>  
 
 ## ⚙️ &nbsp;GitHub Analytics
