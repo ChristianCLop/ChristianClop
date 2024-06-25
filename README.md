@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="https://github.com/ChristianCLop">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianclop&show_icons=true&locale=en&layout=compact" alt="christianclop"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianclop&show_icons=true&locale=en" alt="christianclop"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianclop&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&border_radius=5&order=3" alt="christianclop"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianclop&show_icons=true&locale=en&theme=dark&hide_border=false&border_radius=5&order=3" alt="christianclop"/>
   </a>
 </p>
