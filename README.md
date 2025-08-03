@@ -44,9 +44,22 @@
 <table>
 <tr>
   <td width="50%">
+  <h3 align="center">GourmentGO</h3>
+  <div align="center">
+    <a href="https://github.com/PSW-GourtmetGO" target="_blank"><img src="https://avatars.githubusercontent.com/u/166830605?s=200&v=4" width="400" alt="GourmentGO"></a>
+    <p>
+      <a href="https://github.com/PSW-GourtmetGO" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p><strong>GourmentGO</strong> is an application where you can show your services as an Restaurant or buy some food os the restaurants that are in the app.</p>
+  </div>                
+</td>
+  
+  <td width="50%">
   <h3 align="center">SimDrive</h3>
   <div align="center">
-    <a href="https://github.com/ChristianCLop/simdrive-frontend.git" target="_blank"><img src="https://github.com/ChristianCLop/simdrive-frontend/blob/main/app/favicon.ico" width="400" alt="Student Management"></a>
+    <a href="https://github.com/ChristianCLop/simdrive-frontend.git" target="_blank"><img src="https://github.com/ChristianCLop/simdrive-frontend/blob/main/app/favicon.ico" width="400" alt="SimDrive"></a>
     <p>
       <a href="https://github.com/ChristianCLop/simdrive-frontend.git" target="_blank">
         <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
