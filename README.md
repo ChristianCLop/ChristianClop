@@ -68,7 +68,8 @@
     <p><strong>SimDrive</strong> is a didactic immersive learning experience with traffic rules in virtual worlds.</p>
   </div>                
 </td>
-  
+
+<tr>
 <td width="50%">
   <h3 align="center">E-Commerce Mobile Application</h3>
   <div align="center">
@@ -85,7 +86,6 @@
   </div>                
 </td> 
 
-<tr>
 <td width="50%">
   <h3 align="center">Credit Simulator Web Application</h3>
   <div align="center">
@@ -102,6 +102,7 @@
   </div>                
 </td> 
 
+<tr>
 <td width="50%">
   <h3 align="center">Student Management Application</h3>
   <div align="center">
