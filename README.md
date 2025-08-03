@@ -50,6 +50,22 @@
 <table>
 <tr>
   <td width="50%">
+  <h3 align="center">Horarios FISEI</h3>
+  <div align="center">
+    <a href="https://github.com/PSW-GourtmetGO" target="_blank"><img src="https://github.com/ChristianCLop/HorariosFISEI/blob/3900d545f59c90718445a27646b2804061e0562c/images/logoApp.png" width="400" alt="Horarios FISEI"></a>
+    <p>
+      <a href="https://github.com/ChristianCLop/HorariosFISEI" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <a href="https://horariosfisei.uta.edu.ec" target="_blank">
+        <img src="https://img.shields.io/badge/web-E0234E.svg?style=for-the-badge&logo=instatus&logoColor=black">
+      </a>
+    </p>
+    <p><strong>Horarios FISEI</strong> this is an application where you can create your academic schedule with IA, and then manage and search it using many parameters.</p>
+  </div>                
+</td>
+  
+  <td width="50%">
   <h3 align="center">GourmentGO</h3>
   <div align="center">
     <a href="https://github.com/PSW-GourtmetGO" target="_blank"><img src="https://avatars.githubusercontent.com/u/166830605?s=200&v=4" width="400" alt="GourmentGO"></a>
@@ -61,7 +77,8 @@
     <p><strong>GourmentGO</strong> is an application where you can show your services as an Restaurant or buy some food os the restaurants that are in the app.</p>
   </div>                
 </td>
-  
+
+<tr>
   <td width="50%">
   <h3 align="center">SimDrive</h3>
   <div align="center">
@@ -75,7 +92,7 @@
   </div>                
 </td>
 
-<tr>
+
 <td width="50%">
   <h3 align="center">E-Commerce Mobile Application</h3>
   <div align="center">
@@ -92,6 +109,7 @@
   </div>                
 </td> 
 
+<tr>
 <td width="50%">
   <h3 align="center">Credit Simulator Web Application</h3>
   <div align="center">
@@ -108,7 +126,6 @@
   </div>                
 </td> 
 
-<tr>
 <td width="50%">
   <h3 align="center">Student Management Application</h3>
   <div align="center">
