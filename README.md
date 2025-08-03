@@ -25,17 +25,23 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,php,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,python,php,java)](https://skillicons.dev)
    
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
    
 ### Backend:
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,nestjs)](https://skillicons.dev)
 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs)](https://skillicons.dev)
-   
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs,astro,angular)](https://skillicons.dev)
+
+### DevOps:
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+### Source Control:
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=figma,postman)](https://skillicons.dev)
 
